@@ -55,11 +55,11 @@ Ensure you have the following installed:
 
 2. Install dependencies for both frontend and backend
     
-   # Install backend dependencies
+   ### Install backend dependencies
        cd server
        npm install cors dotenv express mongoose nodemon uuid
 
-   # Install frontend dependencies
+   ### Install frontend dependencies
        cd client
        npm install @reduxjs/toolkit axios nodemon react react-dom react-redux react-router-dom
     
