@@ -8,14 +8,13 @@ const bodyParser = require('body-parser');
 const dotenv = require("dotenv")
 dotenv.config()
 
-const { computers_data, fashion, homeKitchen, mobiles, Watches, EarBuds, PowerBank } = require('./data');
-
 const app = express() 
 app.use(express.json()) 
 app.use(cors())
 
-mongoose.connect("mongodb://127.0.0.1:27017/employee");
+mongoose.connect(process.env.MONGODB_URI);
 
+const { computers_data, fashion, homeKitchen, mobiles, Watches, EarBuds, PowerBank } = require('./data');
 function shuffle(array) {
     for (let i = array.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
