@@ -25,7 +25,7 @@ ShopNex is an e-commerce application built using the MERN stack (MongoDB, Expres
 
 - Share your product using WhatsApp Also.
 
-## Tech Stack
+## TechStack
 
 - Frontend: React.js, RTK, Tailwind CSS
 - Backend: Node.js, Express.js
@@ -54,15 +54,15 @@ Ensure you have the following installed:
    ```
 
 2. Install dependencies for both frontend and backend
-    ```
-    # Install backend dependencies
-    cd server
-    npm install cors dotenv express mongoose nodemon uuid
+    
+   # Install backend dependencies
+       cd server
+       npm install cors dotenv express mongoose nodemon uuid
 
-    # Install frontend dependencies
-    cd client
-    npm install @reduxjs/toolkit axios nodemon react react-dom react-redux react-router-dom
-    ```
+   # Install frontend dependencies
+       cd client
+       npm install @reduxjs/toolkit axios nodemon react react-dom react-redux react-router-dom
+    
 
 3. Set up environment variables
     Create a .env file in the backend directory and add the following:
