@@ -5,7 +5,7 @@ ShopNex is an e-commerce application built using the MERN stack (MongoDB, Expres
 ## Table of Contents
 
 - [Features](#features)
-- [Tech Stack](#tech_stack)
+- [TechStack](#techStack)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
