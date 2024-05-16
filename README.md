@@ -86,6 +86,17 @@ Ensure you have the following installed:
 
     Open your browser and go to http://localhost:5173/.
 
+## Screenshot
+
+### Register and Login
+![RL](https://github.com/AkashCodz/ShopNex/assets/101062599/aca9473f-433f-4c2a-9edf-b410c44189aa)
+
+### Cart (Add to Cart and Remove items from Cart)
+![cart](https://github.com/AkashCodz/ShopNex/assets/101062599/f7f092e5-5055-4279-ae05-ef0e067f7726)
+
+### WhatsApp Share Feature 
+![whats](https://github.com/AkashCodz/ShopNex/assets/101062599/bd76c23a-790a-42ef-ae52-114aed295964)
+
 ## Usage
 - Register a new account or login with existing credentials.
 - Browse through the available products.
