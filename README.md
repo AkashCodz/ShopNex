@@ -107,8 +107,7 @@ Contributions are welcome! To contribute, follow these steps:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-    For any inquiries or feedback, please contact:
+For any inquiries or feedback, please contact:
 
-    
-    Akash Codz - [@AkashCodz](https://github.com/AkashCodz)
-    You can also open an issue on the [GitHub repository](https://github.com/AkashCodz/ShopNex/issues).
+Akash Codz - [@AkashCodz](https://github.com/AkashCodz)
+You can also open an issue on the [GitHub repository](https://github.com/AkashCodz/ShopNex/issues).
