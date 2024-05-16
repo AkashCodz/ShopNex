@@ -74,15 +74,13 @@ Ensure you have the following installed:
 
 4. Run the application
 
-    ```
-    # Run backend
-    cd server
-    npm start
+    ### Run backend
+       cd server
+       npm start
 
-    # Run frontend
-    cd client
-    npm run dev
-    ```
+    ### Run frontend
+       cd client
+       npm run dev
 
 5. Access the application
 
