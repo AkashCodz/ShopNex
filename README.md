@@ -107,7 +107,7 @@ Contributions are welcome! To contribute, follow these steps:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For any inquiries or feedback, please contact:
+For any inquiries or feedback, please contact us:
 
 Akash Codz - [@AkashCodz](https://github.com/AkashCodz)
 
