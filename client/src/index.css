@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* index.css */
+/* Set height for the body */
+/* Make sure the content is always at least as tall as the viewport */
+/* Fixed footer */
+
+
+/* body {
+  margin: 0;
+  padding: 0;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+.flex-grow {
+  flex-grow: 1;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+} */
