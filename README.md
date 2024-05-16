@@ -97,19 +97,20 @@ Ensure you have the following installed:
 
 ## Contributing
 
-    Contributions are welcome! To contribute, follow these steps:
-    1. Fork the repository.
-    2. Create a new branch (git checkout -b feature/YourFeature).
-    3. Make your changes.
-    4. Commit your changes (git commit -m 'Add some feature').
-    5. Push to the branch (git push origin feature/YourFeature).
-    6. Open a Pull Request.
+Contributions are welcome! To contribute, follow these steps:
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/YourFeature).
+3. Make your changes.
+4. Commit your changes (git commit -m 'Add some feature').
+5. Push to the branch (git push origin feature/YourFeature).
+6. Open a Pull Request.
 
 ## License
-    This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
 For any inquiries or feedback, please contact:
 
 Akash Codz - [@AkashCodz](https://github.com/AkashCodz)
+
 You can also open an issue on the [GitHub repository](https://github.com/AkashCodz/ShopNex/issues).
